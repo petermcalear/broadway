@@ -40,4 +40,6 @@ p.process,p.pages{
 }
 span{
   text-decoration: underline;
+  font-size: 18px;
+  color: white;
 }
